@@ -103,4 +103,4 @@ When testing, change the data as needed and view the results of the test in the 
 
 - Example;
 Test results for a test with invalid Firstname, 'DepositPaid' status and invalid 'Booking dates' entries
-![Screenshot of Test scripts on Postman](https://github.com/LenaBett/Postman-scripting/blob/main/images/UpdateData.png?raw=true)
+![Screenshot of Test scripts on Postman](https://github.com/LenaBett/Postman-scripting/blob/main/images/TestResults.png?raw=true)
